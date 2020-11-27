@@ -12,5 +12,7 @@ Providing solutions for automation scripting, and general infrastructure setup.
 
 Contact me:
 deynstrausser@protonmail.com
+Telegram:
+@deynstrausser
 
 This API is for security research purposes. Use this product at your own liability. No commercial usage. 
