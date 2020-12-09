@@ -10,9 +10,11 @@ x-log, ttencrypt, x-ss-stub, x-gorgon, applog.
 
 Providing solutions for automation scripting, and general infrastructure setup.
 
+Selling 1k devices activated with xlog at $15.
+
 Contact me:
 deynstrausser@protonmail.com
 Telegram:
 @deynstrausser
 
-This API is for security research purposes. Use this product at your own liability. No commercial usage. 
+
